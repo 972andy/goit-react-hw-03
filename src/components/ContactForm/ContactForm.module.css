@@ -1,0 +1,14 @@
+.from {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    border: 1px solid yellow;
+    border-radius: 8px;
+}
+.fromLabel{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}

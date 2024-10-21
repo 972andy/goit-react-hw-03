@@ -1,0 +1,12 @@
+.searchLabel {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.searchContainer {
+    border: 1px solid yellow;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 8px;
+}
